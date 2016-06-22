@@ -1,0 +1,40 @@
+@font-face {
+font-family: CaviarDreams;
+src: url(caviar.ttf);
+}
+	
+nav{
+	
+	font-family:CaviarDreams;
+	
+	font-size:120%;
+	
+	font-weight:bold;
+	
+	
+	}
+	
+
+#nav a{
+	
+	text-decoration:none;
+	color : orange;
+	
+	
+}	
+	
+
+body{
+	padding:10px;
+	font-family:CaviarDreams;
+	font-weight:bold;
+	background-image:texture.png
+}
+
+#coff{
+	
+	position:relative;
+	top: -15px;
+	left:-15px;
+	
+}
